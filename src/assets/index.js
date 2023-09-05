@@ -28,8 +28,8 @@ import cifer from "./company/cifer.jpeg";
 import novaBenefits from "./company/nova.jpeg";
 
 import magna from "./magna.png";
-import imagiq from "./imagiq.png";
-import lyriks from "./lyriks.png";
+import imagiq from "./imagiqai.png";
+import lyriks from "./lyriksapp.png";
 
 export {
   logo,
